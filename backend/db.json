@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Branca",
+      "price": 5.89
+    },
+    {
+      "name": "Monitor Gamer",
+      "price": "750.00",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Celular Xiaomi Note 7",
+      "price": 1200
+    },
+    {
+      "name": "Geladeira",
+      "price": "4000.00",
+      "id": 5
+    },
+    {
+      "name": "Tablet",
+      "price": "455555",
+      "id": 6
+    },
+    {
+      "name": "dsds",
+      "price": "8787",
+      "id": 7
+    },
+    {
+      "name": "sasa",
+      "price": "asa",
+      "id": 8
+    }
+  ]
+}
